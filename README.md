@@ -24,5 +24,5 @@ Server running at [host]
 Note: `index.html` file contains an API key, which is obviously generally bad practice and should for example exist in a private config or env variable. In this case, it is already publicly available via a popular online course, so highly unlikely to cause problems. We don't have to nuke the entire repo.
 
 ## TODOs
-* When API key no longer relevant, replace with `<API_KEY>`. While it will still be in source control history, it will be less obvious.
-*  
+* :white_check_mark: When API key no longer relevant, replace with `<API_KEY>`. While it will still be in source control history, it will be less obvious.
+
