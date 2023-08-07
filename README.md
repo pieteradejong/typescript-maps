@@ -1,6 +1,6 @@
 # "Maps" - using TypeScript
 
-Purpose: flex and refine my TypeScript skills.
+Purpose: practice and refine my TypeScript skills, fix any gaps.
 
 Based on Udemy course:
 [Udemy: Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide)
@@ -14,4 +14,9 @@ Install `parcel` and `parcel-bundler`:
 $ npm install -g parcel parce-bundler
 ```
 
+Run using:
+```bash
+$ parcel index.html
+Server running at [host]
+```
 

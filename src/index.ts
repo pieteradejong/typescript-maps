@@ -1,1 +1,6 @@
-console.log('Hello TypeScript!');
+import { User } from "./User";
+
+const user = new User();
+
+console.log(user);
+
