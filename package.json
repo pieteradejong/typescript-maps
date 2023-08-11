@@ -1,0 +1,18 @@
+{
+  "name": "typescript-maps",
+  "version": "1.0.0",
+  "description": "Purpose: practice and refine my TypeScript skills, fix any gaps.",
+  "main": "index.js",
+  "scripts": {
+    "start:build": "tsc -w",
+    "start:run": "nodemon build/index.js",
+    "start": "concurrently npm:start:*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.0",
+    "nodemon": "^3.0.1"
+  }
+}
