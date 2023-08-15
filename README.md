@@ -1,4 +1,6 @@
 # "Maps" - using TypeScript
+[![ESlint](https://github.com/pieteradejong/typescript-maps/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/pieteradejong/typescript-maps/actions/workflows/ci.yml)
+
 
 Purpose: practice and refine my TypeScript skills, fix any gaps.
 
